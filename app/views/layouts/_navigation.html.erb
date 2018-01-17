@@ -1,0 +1,27 @@
+<nav class="navbar navbar-inverse">
+  <div class="container">
+    <div class="navbar-header">
+
+    </div>
+    <div id="navbar">
+
+      <ul class="nav navbar-nav pull-right">
+        <% if current_user %>
+            <li>Signed in as <%= current_user.name %></li>
+            <li><%= link_to 'Log Out', logout_path, method: :delete %></li>
+        <% else %>
+            <li>
+              <%= link_to "/auth/twitter"  do%>
+                <%= content_tag(:i, nil, class: 'fa fa-twitter fa-lg') %>
+              <% end %>
+            </li>
+            <li>
+              <%= link_to "/auth/vkontakte"  do%>
+                  <%= content_tag(:i, nil, class: 'fa fa-vk fa-lg') %>
+              <% end %>
+            </li>
+        <% end %>
+      </ul>
+    </div>
+  </div>
+</nav>
