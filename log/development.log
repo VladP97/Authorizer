@@ -1195,3 +1195,1821 @@ Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 00:32:46 +0300
 Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 00:32:46 +0300
 Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 00:33:24 +0300
 Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 00:33:25 +0300
+Started GET "/" for 127.0.0.1 at 2018-01-18 01:06:47 +0300
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (8.5ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 814ms (Views: 793.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 01:07:06 +0300
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 295ms (Views: 272.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 01:07:20 +0300
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 01:07:20 +0300
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 01:07:53 +0300
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 01:07:53 +0300
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 01:09:25 +0300
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 01:09:25 +0300
+Started GET "/" for 127.0.0.1 at 2018-01-18 02:00:25 +0300
+  [1m[35m (1.0ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (11.5ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.5ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+Completed 200 OK in 1459ms (Views: 1435.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 02:00:42 +0300
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 359ms (Views: 332.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 02:00:44 +0300
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 02:00:44 +0300
+Started GET "/" for 127.0.0.1 at 2018-01-18 02:03:52 +0300
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 299ms (Views: 272.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 02:03:57 +0300
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 02:03:57 +0300
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 02:04:55 +0300
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 02:04:55 +0300
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 02:06:58 +0300
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 02:06:58 +0300
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 03:02:41 +0300
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 03:02:41 +0300
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 03:03:33 +0300
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 03:03:33 +0300
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 03:04:12 +0300
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 03:04:12 +0300
+Started GET "/" for 127.0.0.1 at 2018-01-18 03:18:59 +0300
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.5ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+Completed 200 OK in 322ms (Views: 298.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 03:19:03 +0300
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 03:19:03 +0300
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 03:21:48 +0300
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 03:21:48 +0300
+Started GET "/" for 127.0.0.1 at 2018-01-18 03:26:55 +0300
+  [1m[35m (1.0ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (10.0ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_navigation.html.erb (2.0ms)
+Completed 200 OK in 1007ms (Views: 983.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 03:27:16 +0300
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 03:27:16 +0300
+Started GET "/auth/twitter" for 127.0.0.1 at 2018-01-18 03:27:37 +0300
+Started GET "/auth/twitter" for 127.0.0.1 at 2018-01-18 03:27:38 +0300
+Started GET "/auth/twitter/callback?oauth_token=WQlB1gAAAAAA4EFYAAABYQaqEyE&oauth_verifier=tz1YO38wudNcvrz7nErxxWNrHSM0suOS" for 127.0.0.1 at 2018-01-18 03:27:39 +0300
+Processing by SessionsController#create as HTML
+  Parameters: {"oauth_token"=>"WQlB1gAAAAAA4EFYAAABYQaqEyE", "oauth_verifier"=>"tz1YO38wudNcvrz7nErxxWNrHSM0suOS", "provider"=>"twitter"}
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`provider` = 'twitter' AND `users`.`uid` = '953343996121747456' ORDER BY `users`.`id` ASC LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.0ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost/
+Completed 302 Found in 116ms (ActiveRecord: 52.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 03:27:40 +0300
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.5ms)
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  Rendered layouts/_navigation.html.erb (8.0ms)
+Completed 200 OK in 433ms (Views: 390.3ms | ActiveRecord: 0.5ms)
+
+
+Started DELETE "/logout" for 127.0.0.1 at 2018-01-18 03:27:43 +0300
+Processing by SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"S2kgmXOznLdGLidLfm4wjtvu/MFs8QBNlgsx1jGuLAYFz4TpjIYh7NrYm6VMKln+YtInJlXDy8NzxW2WSMse+A=="}
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+Redirected to http://localhost/
+Completed 302 Found in 3ms (ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 03:27:43 +0300
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 292ms (Views: 266.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 03:27:46 +0300
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 03:27:47 +0300
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 03:27:52 +0300
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 03:27:53 +0300
+Started GET "/" for 127.0.0.1 at 2018-01-18 03:30:31 +0300
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 325ms (Views: 297.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 03:30:37 +0300
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 03:30:37 +0300
+Started GET "/auth/vkontakte/callback?code=8de90219f8907e4889&state=d39594fc7a3c181b3276887f24bfe87bd2feb370f8f92ebc" for 127.0.0.1 at 2018-01-18 03:30:37 +0300
+  
+Faraday::SSLError (SSL_connect returned=1 errno=0 state=error: certificate verify failed):
+  
+C:/RailsInstaller/Ruby2.2.0/lib/ruby/2.2.0/net/http.rb:923:in `connect'
+C:/RailsInstaller/Ruby2.2.0/lib/ruby/2.2.0/net/http.rb:923:in `block in connect'
+C:/RailsInstaller/Ruby2.2.0/lib/ruby/2.2.0/timeout.rb:73:in `timeout'
+C:/RailsInstaller/Ruby2.2.0/lib/ruby/2.2.0/net/http.rb:923:in `connect'
+C:/RailsInstaller/Ruby2.2.0/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+C:/RailsInstaller/Ruby2.2.0/lib/ruby/2.2.0/net/http.rb:852:in `start'
+C:/RailsInstaller/Ruby2.2.0/lib/ruby/2.2.0/net/http.rb:1375:in `request'
+faraday (0.12.2) lib/faraday/adapter/net_http.rb:80:in `perform_request'
+faraday (0.12.2) lib/faraday/adapter/net_http.rb:38:in `block in call'
+faraday (0.12.2) lib/faraday/adapter/net_http.rb:85:in `with_net_http_connection'
+faraday (0.12.2) lib/faraday/adapter/net_http.rb:33:in `call'
+faraday (0.12.2) lib/faraday/request/url_encoded.rb:15:in `call'
+faraday (0.12.2) lib/faraday/rack_builder.rb:141:in `build_response'
+faraday (0.12.2) lib/faraday/connection.rb:386:in `run_request'
+oauth2 (1.4.0) lib/oauth2/client.rb:99:in `request'
+oauth2 (1.4.0) lib/oauth2/client.rb:146:in `get_token'
+oauth2 (1.4.0) lib/oauth2/strategy/auth_code.rb:30:in `get_token'
+omniauth-oauth2 (1.5.0) lib/omniauth/strategies/oauth2.rb:89:in `build_access_token'
+omniauth-oauth2 (1.5.0) lib/omniauth/strategies/oauth2.rb:73:in `callback_phase'
+omniauth-vkontakte (1.4.1) lib/omniauth/strategies/vkontakte.rb:142:in `callback_phase'
+omniauth (1.8.1) lib/omniauth/strategy.rb:236:in `callback_call'
+omniauth (1.8.1) lib/omniauth/strategy.rb:188:in `call!'
+omniauth (1.8.1) lib/omniauth/strategy.rb:168:in `call'
+omniauth (1.8.1) lib/omniauth/strategy.rb:190:in `call!'
+omniauth (1.8.1) lib/omniauth/strategy.rb:168:in `call'
+omniauth (1.8.1) lib/omniauth/builder.rb:63:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.11.0) lib/puma/configuration.rb:225:in `call'
+puma (3.11.0) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.0) lib/puma/server.rb:438:in `process_client'
+puma (3.11.0) lib/puma/server.rb:302:in `block in run'
+puma (3.11.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.11.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/auth/twitter" for 127.0.0.1 at 2018-01-18 03:31:06 +0300
+Started GET "/auth/twitter" for 127.0.0.1 at 2018-01-18 03:31:06 +0300
+Started GET "/auth/twitter/callback?oauth_token=fXIZ2AAAAAAA4EFYAAABYQatQVM&oauth_verifier=zi6gv63EUAZ6qxLSnXVHzxVhR6riNPTJ" for 127.0.0.1 at 2018-01-18 03:31:08 +0300
+Processing by SessionsController#create as HTML
+  Parameters: {"oauth_token"=>"fXIZ2AAAAAAA4EFYAAABYQatQVM", "oauth_verifier"=>"zi6gv63EUAZ6qxLSnXVHzxVhR6riNPTJ", "provider"=>"twitter"}
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`provider` = 'twitter' AND `users`.`uid` = '953343996121747456' ORDER BY `users`.`id` ASC LIMIT 1[0m
+  [1m[35m (0.5ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.5ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost/
+Completed 302 Found in 10ms (ActiveRecord: 1.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 03:31:09 +0300
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (1.0ms)
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  Rendered layouts/_navigation.html.erb (3.0ms)
+Completed 200 OK in 486ms (Views: 441.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 03:42:07 +0300
+  [1m[35m (0.0ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (8.0ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (1.5ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+Completed 200 OK in 1022ms (Views: 992.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 03:42:30 +0300
+Started GET "/auth/vkontakte" for 127.0.0.1 at 2018-01-18 03:42:30 +0300
+Started GET "/auth/vkontakte/callback?code=a5a362d4f8c7a9ad31&state=dacde58e66c540c6eb940fb31569cd1275bae4b656544441" for 127.0.0.1 at 2018-01-18 03:42:30 +0300
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"a5a362d4f8c7a9ad31", "state"=>"dacde58e66c540c6eb940fb31569cd1275bae4b656544441", "provider"=>"vkontakte"}
+  [1m[35m (0.0ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`provider` = 'vkontakte' AND `users`.`uid` = '236122843' ORDER BY `users`.`id` ASC LIMIT 1[0m
+  [1m[35m (0.5ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.5ms)[0m  [1m[32mINSERT INTO `users` (`provider`, `uid`, `created_at`, `updated_at`) VALUES ('vkontakte', '236122843', '2018-01-18 00:42:32', '2018-01-18 00:42:32')[0m
+  [1m[35m (41.8ms)[0m  [1m[35mCOMMIT[0m
+  [1m[35m (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[33mUPDATE `users` SET `name` = 'Влад Потапов', `token` = '56897e2df1b806af87ead7197b9dd5792b47ef37741ec3ff1419a86174e7c5a504bb28e7b19a06cd17e5b', `profile_image` = 'https://pp.userapi.com/c837739/v837739843/7088/e477DpnrEuc.jpg' WHERE `users`.`id` = 2[0m
+  [1m[35m (26.8ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://myserver.com/
+Completed 302 Found in 1149ms (ActiveRecord: 99.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 03:42:32 +0300
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.5ms)
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 2 LIMIT 1[0m
+  Rendered layouts/_navigation.html.erb (10.5ms)
+Completed 200 OK in 289ms (Views: 267.0ms | ActiveRecord: 0.5ms)
+
+
+Started DELETE "/logout" for 127.0.0.1 at 2018-01-18 03:42:42 +0300
+Processing by SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"y32SKRbzKJPPaWX4+rzIJQW8G4+q9DxAckAzJZ+SpjZUzwzfzy2U1zXIxODB4iSrCqvjemr/PR4vjX5vz8A6Ig=="}
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 2 LIMIT 1[0m
+Redirected to http://myserver.com/
+Completed 302 Found in 3ms (ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 03:42:42 +0300
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+Completed 200 OK in 273ms (Views: 250.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 14:06:46 +0300
+  [1m[35m (0.0ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (11.5ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (6.0ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+Completed 200 OK in 3137ms (Views: 3114.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 14:20:23 +0300
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (11.0ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_navigation.html.erb (2.0ms)
+Completed 200 OK in 1016ms (Views: 920.3ms | ActiveRecord: 8.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 14:27:56 +0300
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (8.0ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+Completed 200 OK in 969ms (Views: 897.6ms | ActiveRecord: 11.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 14:29:33 +0300
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (12.0ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_navigation.html.erb (2.5ms)
+Completed 200 OK in 1262ms (Views: 1146.9ms | ActiveRecord: 12.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 14:29:53 +0300
+Started GET "/" for 127.0.0.1 at 2018-01-18 14:29:53 +0300
+Processing by PagesController#index as HTML
+Processing by PagesController#index as HTML
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  [1m[35m (40.0ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (1.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendered pages/index.html.erb within layouts/application (0.5ms)
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (0.5ms)
+Completed 200 OK in 1527ms (Views: 494.2ms | ActiveRecord: 1.0ms)
+
+
+  Rendered layouts/_navigation.html.erb (0.5ms)
+Completed 200 OK in 1554ms (Views: 424.8ms | ActiveRecord: 41.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 14:47:55 +0300
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (10.5ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (5.5ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 909ms (Views: 838.6ms | ActiveRecord: 15.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 14:48:12 +0300
+Processing by PagesController#index as HTML
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_navigation.html.erb (0.5ms)
+Completed 200 OK in 1325ms (Views: 291.0ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 14:49:38 +0300
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (20.5ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (9.0ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+Completed 200 OK in 2070ms (Views: 1910.3ms | ActiveRecord: 35.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 14:49:58 +0300
+Started GET "/" for 127.0.0.1 at 2018-01-18 14:49:58 +0300
+Processing by PagesController#index as HTML
+Processing by PagesController#index as HTML
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (1.0ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  [1m[36mUser Load (27.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (42.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (46.2ms)
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (2.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (47.1ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 1686ms (Views: 607.1ms | ActiveRecord: 44.0ms)
+
+
+  Rendered layouts/_navigation.html.erb (0.0ms)
+Completed 200 OK in 1728ms (Views: 601.3ms | ActiveRecord: 30.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 14:52:32 +0300
+  [1m[35m (1.0ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (13.0ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (4.5ms)
+  Rendered layouts/_navigation.html.erb (2.5ms)
+Completed 200 OK in 1115ms (Views: 1000.2ms | ActiveRecord: 24.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 14:52:52 +0300
+Processing by PagesController#index as HTML
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 1366ms (Views: 331.6ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 15:00:18 +0300
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (7.0ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (3.5ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 942ms (Views: 874.1ms | ActiveRecord: 12.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 15:00:36 +0300
+Processing by PagesController#index as HTML
+  [1m[35m (0.0ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 1322ms (Views: 292.3ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 15:45:27 +0300
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (8.0ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (34.0ms)
+Completed 500 Internal Server Error in 181ms (ActiveRecord: 22.0ms)
+
+
+  
+ActionView::Template::Error (No route matches {:action=>"delete", :controller=>"Pages"}):
+    17:               Dropdown button
+    18:             </button>
+    19:             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+    20:               <%= link_to "Delete", controller: "Pages", action: "delete" %>
+    21:               <a class="dropdown-item" href="#">Ban</a>
+    22:               <a class="dropdown-item" href="#">Unban</a>
+    23:             </div>
+  
+app/views/pages/index.html.erb:20:in `block in _app_views_pages_index_html_erb__160001479_67289196'
+app/views/pages/index.html.erb:10:in `_app_views_pages_index_html_erb__160001479_67289196'
+Started GET "/" for 127.0.0.1 at 2018-01-18 15:45:31 +0300
+Processing by PagesController#index as HTML
+  [1m[35m (0.0ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (53.5ms)
+Completed 500 Internal Server Error in 2657ms (ActiveRecord: 0.5ms)
+
+
+  
+ActionView::Template::Error (No route matches {:action=>"delete", :controller=>"Pages"}):
+    17:               Dropdown button
+    18:             </button>
+    19:             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+    20:               <%= link_to "Delete", controller: "Pages", action: "delete" %>
+    21:               <a class="dropdown-item" href="#">Ban</a>
+    22:               <a class="dropdown-item" href="#">Unban</a>
+    23:             </div>
+  
+app/views/pages/index.html.erb:20:in `block in _app_views_pages_index_html_erb__160001479_64243824'
+app/views/pages/index.html.erb:10:in `_app_views_pages_index_html_erb__160001479_64243824'
+Started GET "/" for 127.0.0.1 at 2018-01-18 15:46:33 +0300
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (11.5ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (4.0ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 984ms (Views: 880.2ms | ActiveRecord: 26.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 15:51:49 +0300
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (9.5ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (4.5ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+Completed 200 OK in 1090ms (Views: 1014.8ms | ActiveRecord: 22.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 15:52:05 +0300
+Processing by PagesController#index as HTML
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 1330ms (Views: 302.2ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 15:55:59 +0300
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (10.0ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (5.0ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+Completed 200 OK in 978ms (Views: 901.4ms | ActiveRecord: 21.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 15:56:16 +0300
+Processing by PagesController#index as HTML
+Started GET "/" for 127.0.0.1 at 2018-01-18 15:56:17 +0300
+Processing by PagesController#index as HTML
+  [1m[35m (0.0ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (4.0ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 1335ms (Views: 302.7ms | ActiveRecord: 0.5ms)
+
+
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (1.5ms)
+  Rendered layouts/_navigation.html.erb (0.5ms)
+Completed 200 OK in 1368ms (Views: 308.6ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/pages/delete?query=953343996121747456" for 127.0.0.1 at 2018-01-18 15:56:23 +0300
+Processing by PagesController#delete as HTML
+  Parameters: {"query"=>"953343996121747456"}
+Completed 406 Not Acceptable in 1066ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionController::UnknownFormat (PagesController#delete is missing a template for this request format and variant.
+
+request.formats: ["text/html"]
+request.variant: []
+
+NOTE! For XHR/Ajax or API requests, this action would normally respond with 204 No Content: an empty white screen. Since you're loading it in a web browser, we assume that you expected to actually render a template, not nothing, so we're showing an error to be extra-clear. If you expect 204 No Content, carry on. That's what you'll get from an XHR or API request. Give it a shot.):
+  
+actionpack (5.1.4) lib/action_controller/metal/implicit_render.rb:53:in `default_render'
+actionpack (5.1.4) lib/action_controller/metal/basic_implicit_render.rb:4:in `block in send_action'
+actionpack (5.1.4) lib/action_controller/metal/basic_implicit_render.rb:4:in `tap'
+actionpack (5.1.4) lib/action_controller/metal/basic_implicit_render.rb:4:in `send_action'
+actionpack (5.1.4) lib/abstract_controller/base.rb:186:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/rendering.rb:30:in `process_action'
+actionpack (5.1.4) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+activesupport (5.1.4) lib/active_support/callbacks.rb:131:in `run_callbacks'
+actionpack (5.1.4) lib/abstract_controller/callbacks.rb:19:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/rescue.rb:20:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+activesupport (5.1.4) lib/active_support/notifications.rb:166:in `block in instrument'
+activesupport (5.1.4) lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+activesupport (5.1.4) lib/active_support/notifications.rb:166:in `instrument'
+actionpack (5.1.4) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/params_wrapper.rb:252:in `process_action'
+activerecord (5.1.4) lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+actionpack (5.1.4) lib/abstract_controller/base.rb:124:in `process'
+actionview (5.1.4) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.4) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.4) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+omniauth (1.8.1) lib/omniauth/strategy.rb:190:in `call!'
+omniauth (1.8.1) lib/omniauth/strategy.rb:168:in `call'
+omniauth (1.8.1) lib/omniauth/strategy.rb:190:in `call!'
+omniauth (1.8.1) lib/omniauth/strategy.rb:168:in `call'
+omniauth (1.8.1) lib/omniauth/builder.rb:63:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.11.0) lib/puma/configuration.rb:225:in `call'
+puma (3.11.0) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.0) lib/puma/server.rb:438:in `process_client'
+puma (3.11.0) lib/puma/server.rb:302:in `block in run'
+puma (3.11.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.11.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2018-01-18 15:56:54 +0300
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (3.5ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 367ms (Views: 325.4ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 15:58:40 +0300
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (7.0ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (30.0ms)
+Completed 500 Internal Server Error in 179ms (ActiveRecord: 21.5ms)
+
+
+  
+ActionView::Template::Error (No route matches {:action=>"delete", :controller=>"pages", :query=>"953343996121747456"}):
+    17:               Dropdown button
+    18:             </button>
+    19:             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+    20:               <%= link_to "Delete", controller: "pages", action: "delete", query: user.uid %>
+    21:               <a class="dropdown-item" href="#">Ban</a>
+    22:               <a class="dropdown-item" href="#">Unban</a>
+    23:             </div>
+  
+app/views/pages/index.html.erb:20:in `block in _app_views_pages_index_html_erb__894383298_66853068'
+app/views/pages/index.html.erb:10:in `_app_views_pages_index_html_erb__894383298_66853068'
+Started GET "/" for 127.0.0.1 at 2018-01-18 15:58:44 +0300
+Processing by PagesController#index as HTML
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (337.2ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (385.3ms)
+Completed 500 Internal Server Error in 2588ms (ActiveRecord: 338.2ms)
+
+
+  
+ActionView::Template::Error (No route matches {:action=>"delete", :controller=>"pages", :query=>"953343996121747456"}):
+    17:               Dropdown button
+    18:             </button>
+    19:             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+    20:               <%= link_to "Delete", controller: "pages", action: "delete", query: user.uid %>
+    21:               <a class="dropdown-item" href="#">Ban</a>
+    22:               <a class="dropdown-item" href="#">Unban</a>
+    23:             </div>
+  
+app/views/pages/index.html.erb:20:in `block in _app_views_pages_index_html_erb__894383298_64135656'
+app/views/pages/index.html.erb:10:in `_app_views_pages_index_html_erb__894383298_64135656'
+Started GET "/" for 127.0.0.1 at 2018-01-18 16:03:00 +0300
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (6.5ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (5.0ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+Completed 200 OK in 1101ms (Views: 1019.4ms | ActiveRecord: 23.1ms)
+
+
+Started GET "/pages/delete?query=953343996121747456" for 127.0.0.1 at 2018-01-18 16:03:21 +0300
+Processing by PagesController#delete as HTML
+  Parameters: {"query"=>"953343996121747456"}
+Completed 500 Internal Server Error in 44ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::MissingTemplate (Missing template pages/delete, application/delete with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "C:/Users/vladp/RubymineProjects/Authorizer/Authorizer/app/views"
+):
+  
+app/controllers/pages_controller.rb:4:in `delete'
+Started GET "/" for 127.0.0.1 at 2018-01-18 16:03:31 +0300
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 416ms (Views: 363.9ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 16:04:09 +0300
+  [1m[35m (0.0ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (14.0ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (4.5ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 1057ms (Views: 917.6ms | ActiveRecord: 36.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 16:04:25 +0300
+Processing by PagesController#index as HTML
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (3.5ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 1331ms (Views: 302.8ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/pages/delete" for 127.0.0.1 at 2018-01-18 16:04:32 +0300
+Processing by PagesController#delete as HTML
+Completed 500 Internal Server Error in 44ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::MissingTemplate (Missing template pages/delete, application/delete with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "C:/Users/vladp/RubymineProjects/Authorizer/Authorizer/app/views"
+):
+  
+app/controllers/pages_controller.rb:4:in `delete'
+Started GET "/" for 127.0.0.1 at 2018-01-18 16:08:14 +0300
+  [1m[35m (0.0ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (7.0ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (5.5ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 1084ms (Views: 998.8ms | ActiveRecord: 23.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 16:08:30 +0300
+Processing by PagesController#index as HTML
+  [1m[35m (0.0ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (4.0ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+Completed 200 OK in 1558ms (Views: 493.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 16:13:23 +0300
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (9.5ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (4.6ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 1137ms (Views: 1062.5ms | ActiveRecord: 20.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 16:13:39 +0300
+Processing by PagesController#index as HTML
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (4.5ms)
+  Rendered layouts/_navigation.html.erb (0.5ms)
+Completed 200 OK in 1325ms (Views: 293.9ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/pages/delete" for 127.0.0.1 at 2018-01-18 16:13:44 +0300
+Processing by PagesController#delete as HTML
+Completed 500 Internal Server Error in 43ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::MissingTemplate (Missing template pages/delete, application/delete with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "C:/Users/vladp/RubymineProjects/Authorizer/Authorizer/app/views"
+):
+  
+app/controllers/pages_controller.rb:4:in `delete'
+Started GET "/" for 127.0.0.1 at 2018-01-18 16:16:43 +0300
+  [1m[35m (0.0ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (7.0ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (5.0ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 909ms (Views: 830.7ms | ActiveRecord: 23.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 16:17:00 +0300
+Processing by PagesController#index as HTML
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (2.5ms)
+  Rendered layouts/_navigation.html.erb (0.5ms)
+Completed 200 OK in 1300ms (Views: 269.8ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/pages/delete" for 127.0.0.1 at 2018-01-18 16:17:15 +0300
+Processing by PagesController#delete as HTML
+  Rendering text template
+  Rendered text template (0.0ms)
+Completed 200 OK in 8ms (Views: 7.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/delete" for 127.0.0.1 at 2018-01-18 16:17:15 +0300
+Processing by PagesController#delete as HTML
+  Rendering text template
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 16:18:47 +0300
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (8.0ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (4.5ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 1090ms (Views: 984.4ms | ActiveRecord: 49.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 16:19:03 +0300
+Processing by PagesController#index as HTML
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (2.5ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 1332ms (Views: 289.9ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/pages/delete" for 127.0.0.1 at 2018-01-18 16:19:08 +0300
+Processing by PagesController#delete as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (23.5ms)
+Completed 500 Internal Server Error in 85ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+     7:   </tr>
+     8:   </thead>
+     9:   <tbody>
+    10:     <%- @users.each do |user| %>
+    11:       <tr>
+    12:         <td><%= user.name %></td>
+    13:         <td><%= user.provider %></td>
+  
+app/views/pages/index.html.erb:10:in `_app_views_pages_index_html_erb___722333492_105219180'
+app/controllers/pages_controller.rb:4:in `delete'
+Started GET "/" for 127.0.0.1 at 2018-01-18 16:59:59 +0300
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (8.0ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (4.7ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 936ms (Views: 862.8ms | ActiveRecord: 20.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 17:00:15 +0300
+Processing by PagesController#index as HTML
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (4.0ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 1318ms (Views: 277.3ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/pages/delete" for 127.0.0.1 at 2018-01-18 17:00:20 +0300
+Processing by PagesController#delete as HTML
+Redirected to http://myserver.com/pages/index
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/index" for 127.0.0.1 at 2018-01-18 17:00:20 +0300
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+Completed 200 OK in 393ms (Views: 363.1ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 17:24:50 +0300
+  [1m[35m (1.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (9.5ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (4.5ms)
+  Rendered layouts/_navigation.html.erb (0.5ms)
+Completed 200 OK in 1030ms (Views: 931.9ms | ActiveRecord: 41.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 17:25:07 +0300
+Processing by PagesController#index as HTML
+  [1m[35m (0.0ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (4.8ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 1361ms (Views: 319.2ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/pages/delete?query=953343996121747456" for 127.0.0.1 at 2018-01-18 17:25:23 +0300
+Processing by PagesController#delete as HTML
+  Parameters: {"query"=>"953343996121747456"}
+Redirected to http://myserver.com/pages/index
+Completed 302 Found in 4ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/index" for 127.0.0.1 at 2018-01-18 17:25:23 +0300
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (2.5ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 276ms (Views: 252.1ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 17:27:22 +0300
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (7.0ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (4.5ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+Completed 200 OK in 944ms (Views: 867.7ms | ActiveRecord: 22.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 17:27:38 +0300
+Processing by PagesController#index as HTML
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (4.7ms)
+  Rendered layouts/_navigation.html.erb (0.5ms)
+Completed 200 OK in 1317ms (Views: 285.6ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/pages/delete?query=953343996121747456" for 127.0.0.1 at 2018-01-18 17:27:58 +0300
+Processing by PagesController#delete as HTML
+  Parameters: {"query"=>"953343996121747456"}
+Redirected to http://myserver.com/pages/index
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/index" for 127.0.0.1 at 2018-01-18 17:27:58 +0300
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (2.5ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 274ms (Views: 248.9ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 17:30:30 +0300
+  [1m[35m (0.0ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (8.0ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (9.0ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 984ms (Views: 907.6ms | ActiveRecord: 22.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 17:30:46 +0300
+Processing by PagesController#index as HTML
+  [1m[35m (0.0ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (4.5ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 1335ms (Views: 303.5ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/pages/delete?query=953343996121747456" for 127.0.0.1 at 2018-01-18 17:30:51 +0300
+Processing by PagesController#delete as HTML
+  Parameters: {"query"=>"953343996121747456"}
+Redirected to http://myserver.com/pages/index
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/index" for 127.0.0.1 at 2018-01-18 17:30:51 +0300
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (2.5ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 283ms (Views: 256.3ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 17:34:58 +0300
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (11.5ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (5.0ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 1017ms (Views: 943.9ms | ActiveRecord: 21.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 17:35:14 +0300
+Processing by PagesController#index as HTML
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (4.7ms)
+  Rendered layouts/_navigation.html.erb (0.5ms)
+Completed 200 OK in 1340ms (Views: 295.5ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/pages/delete?query=953343996121747456" for 127.0.0.1 at 2018-01-18 17:35:21 +0300
+Processing by PagesController#delete as HTML
+  Parameters: {"query"=>"953343996121747456"}
+Completed 500 Internal Server Error in 89ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (undefined local variable or method `url' for #<PagesController:0xcb25e28>):
+  
+app/controllers/pages_controller.rb:3:in `delete'
+Started GET "/" for 127.0.0.1 at 2018-01-18 17:36:36 +0300
+  [1m[35m (0.0ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (12.0ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (5.5ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 1103ms (Views: 1009.6ms | ActiveRecord: 26.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 17:36:52 +0300
+Processing by PagesController#index as HTML
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (4.5ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 1307ms (Views: 275.4ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/pages/delete?query=953343996121747456" for 127.0.0.1 at 2018-01-18 17:37:19 +0300
+Processing by PagesController#delete as HTML
+  Parameters: {"query"=>"953343996121747456"}
+Redirected to http://myserver.com/pages/index
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/index" for 127.0.0.1 at 2018-01-18 17:37:20 +0300
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (3.5ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 261ms (Views: 233.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 17:39:07 +0300
+  [1m[35m (0.0ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (9.5ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (4.0ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 1224ms (Views: 1130.7ms | ActiveRecord: 25.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 17:39:24 +0300
+Processing by PagesController#index as HTML
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (4.7ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 1311ms (Views: 279.4ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/pages/delete?query=953343996121747456" for 127.0.0.1 at 2018-01-18 17:39:28 +0300
+Processing by PagesController#delete as HTML
+  Parameters: {"query"=>"953343996121747456"}
+Redirected to http://myserver.com/pages/index
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/index" for 127.0.0.1 at 2018-01-18 17:39:28 +0300
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 267ms (Views: 244.2ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 17:40:30 +0300
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (8.5ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (7.0ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+Completed 200 OK in 1006ms (Views: 901.7ms | ActiveRecord: 29.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 17:40:46 +0300
+Processing by PagesController#index as HTML
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (3.5ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 1320ms (Views: 289.9ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/pages/delete?uid=953343996121747456" for 127.0.0.1 at 2018-01-18 17:40:52 +0300
+Processing by PagesController#delete as HTML
+  Parameters: {"uid"=>"953343996121747456"}
+Redirected to http://myserver.com/pages/index
+Completed 302 Found in 6ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/index" for 127.0.0.1 at 2018-01-18 17:40:52 +0300
+Processing by PagesController#index as HTML
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` LIMIT 11[0m
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (3.5ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 269ms (Views: 246.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 17:52:25 +0300
+  [1m[35m (1.0ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (7.5ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (46.3ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 980ms (Views: 914.9ms | ActiveRecord: 27.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 17:52:41 +0300
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (1008.5ms)
+  Rendered layouts/_navigation.html.erb (0.5ms)
+Completed 200 OK in 1351ms (Views: 1329.0ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/pages/delete?uid=953343996121747456" for 127.0.0.1 at 2018-01-18 17:53:01 +0300
+Processing by PagesController#delete as HTML
+  Parameters: {"uid"=>"953343996121747456"}
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 953343996121747456 LIMIT 1[0m
+Completed 404 Not Found in 6ms (ActiveRecord: 0.0ms)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find User with 'id'=953343996121747456):
+  
+app/controllers/pages_controller.rb:4:in `delete'
+Started GET "/" for 127.0.0.1 at 2018-01-18 17:57:35 +0300
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (13.0ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (43.5ms)
+  Rendered layouts/_navigation.html.erb (2.0ms)
+Completed 200 OK in 1346ms (Views: 1264.0ms | ActiveRecord: 25.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 17:57:58 +0300
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (1024.7ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+Completed 200 OK in 1405ms (Views: 1367.2ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/pages/delete?id=1" for 127.0.0.1 at 2018-01-18 17:58:03 +0300
+Processing by PagesController#delete as HTML
+  Parameters: {"id"=>"1"}
+Completed 404 Not Found in 0ms (ActiveRecord: 0.0ms)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find User without an ID):
+  
+app/controllers/pages_controller.rb:3:in `delete'
+Started GET "/" for 127.0.0.1 at 2018-01-18 17:59:15 +0300
+  [1m[35m (1.0ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (30.0ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (61.5ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 1220ms (Views: 1094.2ms | ActiveRecord: 32.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 17:59:32 +0300
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[35m (0.0ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (1017.2ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 1311ms (Views: 1290.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/delete?id=1" for 127.0.0.1 at 2018-01-18 17:59:37 +0300
+Processing by PagesController#delete as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 0 LIMIT 1[0m
+Completed 404 Not Found in 6ms (ActiveRecord: 0.5ms)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find User with 'id'=0):
+  
+app/controllers/pages_controller.rb:3:in `delete'
+Started GET "/" for 127.0.0.1 at 2018-01-18 18:00:29 +0300
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (7.5ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (41.5ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+Completed 200 OK in 972ms (Views: 896.0ms | ActiveRecord: 25.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 18:00:45 +0300
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (1007.6ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 1336ms (Views: 1310.7ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/pages/delete?id=1" for 127.0.0.1 at 2018-01-18 18:01:00 +0300
+Processing by PagesController#delete as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (26.0ms)[0m  [1m[31mDELETE FROM `users` WHERE `users`.`id` = 1[0m
+  [1m[35m (41.1ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://myserver.com/pages/index
+Completed 302 Found in 82ms (ActiveRecord: 67.6ms)
+
+
+Started GET "/pages/index" for 127.0.0.1 at 2018-01-18 18:01:00 +0300
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (3.1ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 276ms (Views: 252.6ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/auth/twitter" for 127.0.0.1 at 2018-01-18 18:01:06 +0300
+Started GET "/auth/twitter" for 127.0.0.1 at 2018-01-18 18:01:09 +0300
+Started GET "/auth/twitter/callback?oauth_token=t0GfawAAAAAA4EFYAAABYQnJyfs&oauth_verifier=0IF9KElTxt1g3j6AGtmpn56e78gGRha2" for 127.0.0.1 at 2018-01-18 18:01:11 +0300
+Processing by SessionsController#create as HTML
+  Parameters: {"oauth_token"=>"t0GfawAAAAAA4EFYAAABYQnJyfs", "oauth_verifier"=>"0IF9KElTxt1g3j6AGtmpn56e78gGRha2", "provider"=>"twitter"}
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`provider` = 'twitter' AND `users`.`uid` = '953343996121747456' ORDER BY `users`.`id` ASC LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[32mINSERT INTO `users` (`provider`, `uid`, `created_at`, `updated_at`) VALUES ('twitter', '953343996121747456', '2018-01-18 15:01:12', '2018-01-18 15:01:12')[0m
+  [1m[35m (60.6ms)[0m  [1m[35mCOMMIT[0m
+  [1m[35m (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[33mUPDATE `users` SET `name` = 'Влад Потапов', `token` = '953343996121747456-Fpu1lFVNp6vDNAlQ7SDqZm9EEpUnrZh', `secret` = 'qCGIvMoj9Sh6PBWBAbDDWv1SC2Ry9ypFXO4MdyEbJyIia', `profile_image` = 'http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png' WHERE `users`.`id` = 3[0m
+  [1m[35m (19.6ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://myserver.com/
+Completed 302 Found in 96ms (ActiveRecord: 80.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 18:01:12 +0300
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (4.0ms)
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 3 LIMIT 1[0m
+  Rendered layouts/_navigation.html.erb (34.6ms)
+Completed 200 OK in 335ms (Views: 308.7ms | ActiveRecord: 1.0ms)
+
+
+Started DELETE "/logout" for 127.0.0.1 at 2018-01-18 18:03:29 +0300
+Processing by SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"q6KYR43lUvHyOCZf75JlJZGeetIbs+qFsqlSyUVPGcsWDwFVCT9zQKLP/oB/KSqwzZtQGSU/wyryoYItzYHD5A=="}
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 3 LIMIT 1[0m
+Redirected to http://myserver.com/
+Completed 302 Found in 3ms (ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 18:03:29 +0300
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (2.5ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+Completed 200 OK in 286ms (Views: 264.5ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 18:10:45 +0300
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (7.5ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (40.5ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 1022ms (Views: 959.1ms | ActiveRecord: 25.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 18:11:01 +0300
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[35m (0.0ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (1006.3ms)
+  Rendered layouts/_navigation.html.erb (0.5ms)
+Completed 200 OK in 1312ms (Views: 1288.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/auth/twitter" for 127.0.0.1 at 2018-01-18 18:11:10 +0300
+Started GET "/auth/twitter" for 127.0.0.1 at 2018-01-18 18:11:10 +0300
+Started GET "/auth/twitter/callback?oauth_token=gmzgXQAAAAAA4EFYAAABYQnS9tY&oauth_verifier=8Ua27UWwHKlc5H6y4QB78NMXPxARNpha" for 127.0.0.1 at 2018-01-18 18:11:11 +0300
+Processing by SessionsController#create as HTML
+  Parameters: {"oauth_token"=>"gmzgXQAAAAAA4EFYAAABYQnS9tY", "oauth_verifier"=>"8Ua27UWwHKlc5H6y4QB78NMXPxARNpha", "provider"=>"twitter"}
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`provider` = 'twitter' AND `users`.`uid` = '953343996121747456' ORDER BY `users`.`id` ASC LIMIT 1[0m
+  [1m[35m (0.5ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.5ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://myserver.com/
+Completed 302 Found in 9ms (ActiveRecord: 1.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 18:11:13 +0300
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 3 LIMIT 1[0m
+  Rendered pages/index.html.erb within layouts/application (9.2ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 348ms (Views: 321.5ms | ActiveRecord: 0.5ms)
+
+
+Started DELETE "/logout" for 127.0.0.1 at 2018-01-18 18:11:16 +0300
+Processing by SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"NNyxwXuF0fl7+fUQOgoDDDbf7pUA0L03uHt6znYHgryJcSjT/1/wSCsOLc+qsUyZatrEXj5clJj4c6oq/slYkw=="}
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 3 LIMIT 1[0m
+Redirected to http://myserver.com/
+Completed 302 Found in 3ms (ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 18:11:16 +0300
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (3.3ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 272ms (Views: 248.6ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/auth/twitter" for 127.0.0.1 at 2018-01-18 18:12:10 +0300
+Started GET "/auth/twitter" for 127.0.0.1 at 2018-01-18 18:12:11 +0300
+Started GET "/auth/twitter/callback?oauth_token=-AXbwQAAAAAA4EFYAAABYQnT41Q&oauth_verifier=3q2pFC5bc1fh8AywRlTDbtixWIumdFof" for 127.0.0.1 at 2018-01-18 18:12:12 +0300
+Processing by SessionsController#create as HTML
+  Parameters: {"oauth_token"=>"-AXbwQAAAAAA4EFYAAABYQnT41Q", "oauth_verifier"=>"3q2pFC5bc1fh8AywRlTDbtixWIumdFof", "provider"=>"twitter"}
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`provider` = 'twitter' AND `users`.`uid` = '953343996121747456' ORDER BY `users`.`id` ASC LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.5ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://myserver.com/
+Completed 302 Found in 53ms (ActiveRecord: 27.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 18:12:13 +0300
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 3 LIMIT 1[0m
+  Rendered pages/index.html.erb within layouts/application (4.5ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 309ms (Views: 283.5ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 18:18:10 +0300
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (12.5ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 3 LIMIT 1[0m
+  Rendered pages/index.html.erb within layouts/application (55.5ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 10011ms (Views: 9912.2ms | ActiveRecord: 29.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 20:23:16 +0300
+  [1m[35m (1.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (20.0ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 3 LIMIT 1[0m
+  Rendered pages/index.html.erb within layouts/application (46.5ms)
+  Rendered layouts/_navigation.html.erb (4.5ms)
+Completed 200 OK in 1546ms (Views: 1476.0ms | ActiveRecord: 21.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 20:23:39 +0300
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 3 LIMIT 1[0m
+  Rendered pages/index.html.erb within layouts/application (1016.7ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 1564ms (Views: 1529.4ms | ActiveRecord: 1.5ms)
+
+
+Started DELETE "/logout" for 127.0.0.1 at 2018-01-18 20:23:47 +0300
+Processing by SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"9GMdcAf1bxYyRdjfiXcfRQlDWPgfGtMnMZA5QgkxKS5JzoRigy9Op2KyAAAZzFDQVUZyMyGW+ohxmOmmgf/zAQ=="}
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 3 LIMIT 1[0m
+Redirected to http://myserver.com/
+Completed 302 Found in 4ms (ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 20:23:47 +0300
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+Completed 200 OK in 280ms (Views: 258.6ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/auth/facebook" for 127.0.0.1 at 2018-01-18 20:23:49 +0300
+Started GET "/auth/facebook" for 127.0.0.1 at 2018-01-18 20:23:50 +0300
+Started GET "/auth/facebook/callback?error_code=1349048&error_message=%D0%9D%D0%B5%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE+%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%B8%D1%82%D1%8C+URL%3A+%D0%94%D0%BE%D0%BC%D0%B5%D0%BD+%D1%8D%D1%82%D0%BE%D0%B3%D0%BE+URL+%D0%BD%D0%B5+%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD+%D0%B2+%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA+%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2+%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.+%D0%A7%D1%82%D0%BE%D0%B1%D1%8B+%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%B8%D1%82%D1%8C+%D1%8D%D1%82%D0%BE%D1%82+URL%2C+%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D1%8C%D1%82%D0%B5+%D0%B2%D1%81%D0%B5+%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD%D1%8B+%D0%B8+%D0%BF%D0%BE%D0%B4%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD%D1%8B+%D1%81%D0%B2%D0%BE%D0%B5%D0%B3%D0%BE+%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F+%D0%B2+%D0%BF%D0%BE%D0%BB%D0%B5+%C2%AB%D0%94%D0%BE%D0%BC%D0%B5%D0%BD%D1%8B+%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%C2%BB+%D0%B2+%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0%D1%85+%D0%B2%D0%B0%D1%88%D0%B5%D0%B3%D0%BE+%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.&state=f7101de4940956389bcea0322bd8d0f27e86036e2c71fe53" for 127.0.0.1 at 2018-01-18 20:24:22 +0300
+  
+OmniAuth::Strategies::Facebook::NoAuthorizationCodeError (must pass either a `code` (via URL or by an `fbsr_XXX` signed request cookie)):
+  
+omniauth-facebook (4.0.0) lib/omniauth/strategies/facebook.rb:147:in `with_authorization_code!'
+omniauth-facebook (4.0.0) lib/omniauth/strategies/facebook.rb:66:in `callback_phase'
+omniauth (1.8.1) lib/omniauth/strategy.rb:236:in `callback_call'
+omniauth (1.8.1) lib/omniauth/strategy.rb:188:in `call!'
+omniauth (1.8.1) lib/omniauth/strategy.rb:168:in `call'
+omniauth (1.8.1) lib/omniauth/strategy.rb:190:in `call!'
+omniauth (1.8.1) lib/omniauth/strategy.rb:168:in `call'
+omniauth (1.8.1) lib/omniauth/strategy.rb:190:in `call!'
+omniauth (1.8.1) lib/omniauth/strategy.rb:168:in `call'
+omniauth (1.8.1) lib/omniauth/builder.rb:63:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.11.0) lib/puma/configuration.rb:225:in `call'
+puma (3.11.0) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.0) lib/puma/server.rb:438:in `process_client'
+puma (3.11.0) lib/puma/server.rb:302:in `block in run'
+puma (3.11.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.11.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/auth/facebook" for 127.0.0.1 at 2018-01-18 20:27:01 +0300
+Started GET "/auth/facebook" for 127.0.0.1 at 2018-01-18 20:27:02 +0300
+Started GET "/auth/facebook/callback?code=AQBuGm9Vrv605JkuXN1uYgHE5mzBdCj4JMzm6IRUNij4wgoKxPnrsWgxKtfMQOmYo8p9yxhIHcVrAJLuIRcuE9VAov_7oJkTDxOxwu_LMD_inlgjhz8KIuPWUUTQe5tK6zcpzxGl5Mfu4Zsc7GdMHaM2Y8ZygOc9_rO8J5s32lUNYUdNFqN2c7XsacncmYGFX8rrUomkvEi1edWirk_gVARzRXGX5G2s67NBBckdn2pWpUOjPy0b00HItrwQ7Jo9N3seQgSXa3VP0FSlz7BsbAqfEtFqqZsGvcYP5kvlenTWBVJCOGlvwZw5IUBVjLRoZcIuCqM6krjXuiYHDPBcFh2e&state=4393f52a368a21e059c17eb0ecaf255c8551293b5e9d3b79" for 127.0.0.1 at 2018-01-18 20:27:13 +0300
+  
+Faraday::SSLError (SSL_connect returned=1 errno=0 state=error: certificate verify failed):
+  
+C:/RailsInstaller/Ruby2.2.0/lib/ruby/2.2.0/net/http.rb:923:in `connect'
+C:/RailsInstaller/Ruby2.2.0/lib/ruby/2.2.0/net/http.rb:923:in `block in connect'
+C:/RailsInstaller/Ruby2.2.0/lib/ruby/2.2.0/timeout.rb:73:in `timeout'
+C:/RailsInstaller/Ruby2.2.0/lib/ruby/2.2.0/net/http.rb:923:in `connect'
+C:/RailsInstaller/Ruby2.2.0/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+C:/RailsInstaller/Ruby2.2.0/lib/ruby/2.2.0/net/http.rb:852:in `start'
+C:/RailsInstaller/Ruby2.2.0/lib/ruby/2.2.0/net/http.rb:1375:in `request'
+faraday (0.12.2) lib/faraday/adapter/net_http.rb:80:in `perform_request'
+faraday (0.12.2) lib/faraday/adapter/net_http.rb:38:in `block in call'
+faraday (0.12.2) lib/faraday/adapter/net_http.rb:85:in `with_net_http_connection'
+faraday (0.12.2) lib/faraday/adapter/net_http.rb:33:in `call'
+faraday (0.12.2) lib/faraday/request/url_encoded.rb:15:in `call'
+faraday (0.12.2) lib/faraday/rack_builder.rb:141:in `build_response'
+faraday (0.12.2) lib/faraday/connection.rb:386:in `run_request'
+oauth2 (1.4.0) lib/oauth2/client.rb:99:in `request'
+oauth2 (1.4.0) lib/oauth2/client.rb:146:in `get_token'
+oauth2 (1.4.0) lib/oauth2/strategy/auth_code.rb:30:in `get_token'
+omniauth-oauth2 (1.5.0) lib/omniauth/strategies/oauth2.rb:89:in `build_access_token'
+omniauth-facebook (4.0.0) lib/omniauth/strategies/facebook.rb:110:in `build_access_token'
+omniauth-oauth2 (1.5.0) lib/omniauth/strategies/oauth2.rb:73:in `callback_phase'
+omniauth-facebook (4.0.0) lib/omniauth/strategies/facebook.rb:67:in `block in callback_phase'
+omniauth-facebook (4.0.0) lib/omniauth/strategies/facebook.rb:131:in `with_authorization_code!'
+omniauth-facebook (4.0.0) lib/omniauth/strategies/facebook.rb:66:in `callback_phase'
+omniauth (1.8.1) lib/omniauth/strategy.rb:236:in `callback_call'
+omniauth (1.8.1) lib/omniauth/strategy.rb:188:in `call!'
+omniauth (1.8.1) lib/omniauth/strategy.rb:168:in `call'
+omniauth (1.8.1) lib/omniauth/strategy.rb:190:in `call!'
+omniauth (1.8.1) lib/omniauth/strategy.rb:168:in `call'
+omniauth (1.8.1) lib/omniauth/strategy.rb:190:in `call!'
+omniauth (1.8.1) lib/omniauth/strategy.rb:168:in `call'
+omniauth (1.8.1) lib/omniauth/builder.rb:63:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.11.0) lib/puma/configuration.rb:225:in `call'
+puma (3.11.0) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.0) lib/puma/server.rb:438:in `process_client'
+puma (3.11.0) lib/puma/server.rb:302:in `block in run'
+puma (3.11.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.11.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2018-01-18 20:31:44 +0300
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (11.0ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (40.5ms)
+Started GET "/" for 127.0.0.1 at 2018-01-18 20:31:47 +0300
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_navigation.html.erb (2.5ms)
+Completed 200 OK in 2584ms (Views: 2519.6ms | ActiveRecord: 23.5ms)
+
+
+  [1m[35m (1.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (24628.5ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+Completed 200 OK in 25141ms (Views: 25071.6ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/auth/facebook" for 127.0.0.1 at 2018-01-18 20:32:16 +0300
+Started GET "/auth/facebook" for 127.0.0.1 at 2018-01-18 20:32:37 +0300
+Started GET "/" for 127.0.0.1 at 2018-01-18 20:37:07 +0300
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 311ms (Views: 271.9ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/auth/facebook" for 127.0.0.1 at 2018-01-18 20:37:11 +0300
+Started GET "/auth/facebook" for 127.0.0.1 at 2018-01-18 20:37:13 +0300
+Started GET "/auth/facebook" for 127.0.0.1 at 2018-01-18 20:44:28 +0300
+Started GET "/auth/facebook" for 127.0.0.1 at 2018-01-18 20:44:28 +0300
+Started GET "/" for 127.0.0.1 at 2018-01-18 21:02:01 +0300
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (5.0ms)
+  Rendered layouts/_navigation.html.erb (1.0ms)
+Completed 200 OK in 371ms (Views: 326.2ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/auth/facebook" for 127.0.0.1 at 2018-01-18 21:04:28 +0300
+  [1m[35m (0.0ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (8.5ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Started GET "/auth/facebook" for 127.0.0.1 at 2018-01-18 21:04:44 +0300
+Started GET "/auth/facebook/callback?code=AQCBLJNJ__6J1s6D03vfHZyFoZdtVvd7JzYSfujkP-zenhBQwXXGv4-u3my5L0LjyPQ3efrtA95fRumwhAVHkvFwrTpR9p9r_ZFjySf8Pmq7pLNZrew6ScYrEnWXn5l6eDn_ae1Z00ywWowvGCT5d7oZanqDY8HuVAOwpAChWxHYyjuiPdeEyfRD7WsGX2DBf-dwq5ycppyYJco5sXLnHsASfElgzVqxfLVBNOU60IO8_1LLlgqKGxlp7UcLeaOOOKQmBQkJsrKpEj0XJpkI36ap4Zcz67O2nMtFZScAR-DKKUb--TEj1ziVMEjxrJV_M14fUbUu-HoA7VBvPXw5xrTC&state=69426a23cf532f40e27899db732b2227fcec9559c99044e8" for 127.0.0.1 at 2018-01-18 21:04:51 +0300
+  
+Faraday::TimeoutError (A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. - connect(2) for "graph.facebook.com" port 443):
+  
+C:/RailsInstaller/Ruby2.2.0/lib/ruby/2.2.0/net/http.rb:879:in `initialize'
+C:/RailsInstaller/Ruby2.2.0/lib/ruby/2.2.0/net/http.rb:879:in `open'
+C:/RailsInstaller/Ruby2.2.0/lib/ruby/2.2.0/net/http.rb:879:in `block in connect'
+C:/RailsInstaller/Ruby2.2.0/lib/ruby/2.2.0/timeout.rb:73:in `timeout'
+C:/RailsInstaller/Ruby2.2.0/lib/ruby/2.2.0/net/http.rb:878:in `connect'
+C:/RailsInstaller/Ruby2.2.0/lib/ruby/2.2.0/net/http.rb:863:in `do_start'
+C:/RailsInstaller/Ruby2.2.0/lib/ruby/2.2.0/net/http.rb:852:in `start'
+C:/RailsInstaller/Ruby2.2.0/lib/ruby/2.2.0/net/http.rb:1375:in `request'
+C:/RailsInstaller/Ruby2.2.0/lib/ruby/2.2.0/net/http.rb:1133:in `get'
+faraday (0.12.2) lib/faraday/adapter/net_http.rb:78:in `perform_request'
+faraday (0.12.2) lib/faraday/adapter/net_http.rb:38:in `block in call'
+faraday (0.12.2) lib/faraday/adapter/net_http.rb:85:in `with_net_http_connection'
+faraday (0.12.2) lib/faraday/adapter/net_http.rb:33:in `call'
+faraday (0.12.2) lib/faraday/request/url_encoded.rb:15:in `call'
+faraday (0.12.2) lib/faraday/rack_builder.rb:141:in `build_response'
+faraday (0.12.2) lib/faraday/connection.rb:386:in `run_request'
+oauth2 (1.4.0) lib/oauth2/client.rb:99:in `request'
+oauth2 (1.4.0) lib/oauth2/access_token.rb:107:in `request'
+oauth2 (1.4.0) lib/oauth2/access_token.rb:114:in `get'
+omniauth-facebook (4.0.0) lib/omniauth/strategies/facebook.rb:54:in `raw_info'
+omniauth-facebook (4.0.0) lib/omniauth/strategies/facebook.rb:27:in `block in <class:Facebook>'
+omniauth (1.8.1) lib/omniauth/strategy.rb:109:in `instance_eval'
+omniauth (1.8.1) lib/omniauth/strategy.rb:109:in `block in compile_stack'
+omniauth (1.8.1) lib/omniauth/strategy.rb:108:in `each'
+omniauth (1.8.1) lib/omniauth/strategy.rb:108:in `inject'
+omniauth (1.8.1) lib/omniauth/strategy.rb:108:in `compile_stack'
+omniauth (1.8.1) lib/omniauth/strategy.rb:102:in `uid_stack'
+omniauth (1.8.1) lib/omniauth/strategy.rb:329:in `uid'
+omniauth (1.8.1) lib/omniauth/strategy.rb:345:in `auth_hash'
+omniauth (1.8.1) lib/omniauth/strategy.rb:368:in `callback_phase'
+omniauth-oauth2 (1.5.0) lib/omniauth/strategies/oauth2.rb:75:in `callback_phase'
+omniauth-facebook (4.0.0) lib/omniauth/strategies/facebook.rb:67:in `block in callback_phase'
+omniauth-facebook (4.0.0) lib/omniauth/strategies/facebook.rb:131:in `with_authorization_code!'
+omniauth-facebook (4.0.0) lib/omniauth/strategies/facebook.rb:66:in `callback_phase'
+omniauth (1.8.1) lib/omniauth/strategy.rb:236:in `callback_call'
+omniauth (1.8.1) lib/omniauth/strategy.rb:188:in `call!'
+omniauth (1.8.1) lib/omniauth/strategy.rb:168:in `call'
+omniauth (1.8.1) lib/omniauth/strategy.rb:190:in `call!'
+omniauth (1.8.1) lib/omniauth/strategy.rb:168:in `call'
+omniauth (1.8.1) lib/omniauth/strategy.rb:190:in `call!'
+omniauth (1.8.1) lib/omniauth/strategy.rb:168:in `call'
+omniauth (1.8.1) lib/omniauth/builder.rb:63:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.11.0) lib/puma/configuration.rb:225:in `call'
+puma (3.11.0) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.0) lib/puma/server.rb:438:in `process_client'
+puma (3.11.0) lib/puma/server.rb:302:in `block in run'
+puma (3.11.0) lib/puma/thread_pool.rb:120:in `call'
+puma (3.11.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2018-01-18 21:18:58 +0300
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (10.5ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (76.5ms)
+  Rendered layouts/_navigation.html.erb (2.0ms)
+Completed 200 OK in 1224ms (Views: 1138.6ms | ActiveRecord: 58.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 21:19:20 +0300
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+  Rendered pages/index.html.erb within layouts/application (1008.0ms)
+  Rendered layouts/_navigation.html.erb (2.5ms)
+Completed 200 OK in 1332ms (Views: 1308.1ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/auth/facebook" for 127.0.0.1 at 2018-01-18 21:19:31 +0300
+Started GET "/auth/facebook" for 127.0.0.1 at 2018-01-18 21:19:32 +0300

@@ -7,7 +7,7 @@
 
       <ul class="nav navbar-nav pull-right">
         <% if current_user %>
-            <li>Signed in as <%= current_user.name %></li>
+            <li class="sign-in_user">Signed in as <%= current_user.name %></li>
             <li><%= link_to 'Log Out', logout_path, method: :delete %></li>
         <% else %>
             <li>
@@ -18,6 +18,11 @@
             <li>
               <%= link_to "/auth/vkontakte"  do%>
                   <%= content_tag(:i, nil, class: 'fa fa-vk fa-lg') %>
+              <% end %>
+            </li>
+            <li>
+              <%= link_to "/auth/facebook"  do%>
+                  <%= content_tag(:i, nil, class: 'fa fa-facebook fa-lg') %>
               <% end %>
             </li>
         <% end %>

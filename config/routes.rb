@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
   get 'pages/index'
+  get 'pages/delete', to: 'pages#delete'
   get '/auth/:provider/callback', to: 'sessions#create'
 
   delete '/logout', to: 'sessions#destroy'
